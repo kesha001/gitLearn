@@ -1,0 +1,1 @@
+print('these files will be deleted')
